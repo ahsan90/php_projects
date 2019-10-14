@@ -17,7 +17,7 @@ Here are the rules:
 	
 	v. A drop down/select box (select, please provide numbers/options from 1 - 7) for the number of nights they would like to stay - don't worry about choosing dates, just provide a box for the number of nights.
  
-2.	All content should be inside a div with an id of bookingForm and a 	width of 700px. Inside the div at the top there should be a header (h1, centered) that reads "Booking Form". Find a photo of an interesting looking cottage you might like to book. Place the photo in the center of the page below the h1, but above the booking form. As well, all formatting should be done using CSS and not using html attributes (bgcolor, <center>, <font>). <table> tags are ok. The form content should be left aligned within the div. Both display pages should utilize Bootstrap css. Ensure you use the bootstrap classes for image, table, and form elements.
+2.	All content should be inside a div with an id of bookingForm and a width of 700px. Inside the div at the top there should be a header (h1, centered) that reads "Booking Form". Find a photo of an interesting looking cottage you might like to book. Place the photo in the center of the page below the h1, but above the booking form. As well, all formatting should be done using CSS and not using html attributes (bgcolor, <center>, <font>). <table> tags are ok. The form content should be left aligned within the div. Both display pages should utilize Bootstrap css. Ensure you use the bootstrap classes for image, table, and form elements.
 
 3. The output page (named processBooking.php) needs to include/display/calculate the following:
 

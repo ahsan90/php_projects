@@ -39,7 +39,7 @@ Rquirements:
 	i. Select drop-down fields should be used to allow users to choose a quantity for each item. Limit the options to 0-30. 
 	ii. We also need fields for name, email, and phone number.
 
-2. Look and Feel: Use bootstrap or not, your choice. The header of each page should contain a masthead/header image that would befit an upscale veggie shop. Please use GIMP, MS PAINT or some other editor to create this header image for the top of your page. Or better yet, set your header text using <h1> or <h2> and set the image you create as a background-image in your CSS. As well, all formatting should be done using CSS in an external stylesheet. Please use a div with an id of 'container' to hold your content. Ensure that this simple theme is present for ALL of your pages!
+2. Look and Feel: Use bootstrap or not, your choice. The header of each page should contain a masthead/header image that would befit an upscale veggie shop. Please use GIMP, MS PAINT or some other editor to create this header image for the top of your page. Or better yet, set your header text using html heading 2 tag element and set the image you create as a background-image in your CSS. As well, all formatting should be done using CSS in an external stylesheet. Please use a div with an id of 'container' to hold your content. Ensure that this simple theme is present for ALL of your pages!
 
 3. The processing page (named processVeggies.php) needs to include the following:
 	i. Order details gathered from input form.

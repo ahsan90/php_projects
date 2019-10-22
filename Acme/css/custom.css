@@ -1,0 +1,34 @@
+/*
+Author: Md Ahsanul Hoque
+Since: October 16, 2019
+Purpose: Custom CSS file for customizing the website of Acme International Inc.
+*/
+body{
+
+}
+#container{
+    max-width: 961px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+}
+header{
+    margin-top: 0;
+}
+#container h2{
+    text-align: center;
+}
+.current{
+    color: whitesmoke;
+}
+.customCard{
+    max-width: 961px;
+    text-align: left;
+    margin: 0 auto;
+}
+.card-title{
+    border-top: 1px dotted grey;
+    margin-top: 20px;
+}
+.listingHeading{
+    text-align: center;
+}

@@ -16,12 +16,12 @@ Include a hyperlink back to add another album.
 
 Sample output could look like this:
 
-Album Created
-Album Title: Blaze of Glory
-Artist: Jon Bon Jovi
-Publisher: ASCAP
-Genre: Rock
-Custom Field: stuff
+Album Created\
+Album Title: Blaze of Glory\
+Artist: Jon Bon Jovi\
+Publisher: ASCAP\
+Genre: Rock\
+Custom Field: stuff\
 Another Custom Field: stuff
 
 Add another album!
